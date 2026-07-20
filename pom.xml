@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>com.marcal</groupId>
-	<artifactId>drone-delivery-simulator</artifactId>
+	<artifactId>dronedeliverysimulator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>Drone Delivery Simulator</name>
